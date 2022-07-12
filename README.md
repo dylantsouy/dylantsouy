@@ -10,8 +10,7 @@ I'm Dylan Tsou a Full Stack Web Developer.  I Spend most of time coding projects
 - 🔭 I’m currently working as a Frontend Developer
 - 🤔 I’m looking for the way to become stronger.
 - 📫 How to reach me: bear817005@gmail.com.
-- 😄 Pronouns: FuYen, dylantsou.
-- ⚡ Fun fact: I like cook and go to swim very often.
+- ⚡ Fun fact: I like cook and travel very often.
 
 #### Top Technologies
 
