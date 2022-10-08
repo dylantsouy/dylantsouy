@@ -8,7 +8,7 @@ I'm Dylan Tsou a Full Stack Web Developer.  I Spend most of time coding projects
 
 
 - 🔭 I’m currently working as a Frontend Developer
-- 🤔 I’m looking for the way to become stronger.
+- 🤔 My blogger: https://medium.com/@bear817005.
 - 📫 How to reach me: bear817005@gmail.com.
 - ⚡ Fun fact: I like cook and travel very often.
 
