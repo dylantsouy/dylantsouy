@@ -51,7 +51,7 @@ I'm Dylan Tsou a Full Stack Web Developer.  I Spend most of time coding projects
 
 
 #### Profile Visits 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=dylantsouy.dylantsouy)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dylantsouy.dylantsouy)
 
 #### Github Stats
 
