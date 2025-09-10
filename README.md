@@ -7,8 +7,7 @@ I'm Dylan Tsou a Full Stack Web Developer.  I Spend most of time coding projects
  [![Linkedin Badge](https://img.shields.io/badge/-dylantsou-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylantsou/) [![Mail Badge](https://img.shields.io/badge/-@dylantsou-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/dy_z.fu/) [![Mail Badge](https://img.shields.io/badge/-dylantsou-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:bear817005@gmail.com)
 
 
-- 🔭 I’m currently working as a Frontend Developer
-- 🤔 My blogger: https://medium.com/@bear817005.
+- 🔭 I’m currently working as a Senior Software Developer
 - 📫 How to reach me: bear817005@gmail.com.
 - ⚡ Fun fact: I like cook and travel very often.
 
